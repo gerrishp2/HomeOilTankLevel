@@ -14,7 +14,7 @@ Things to watch out for or I would have done differently:
 
 #2 The Hall effect sensor is polarity sensitive (North - South).  If you are having issue picking up the magnetism of your float - try moving the sensor to the other side of the sight glass.
 
-#3  I used plastic surface mount device boxes to mount the electronics in.  It was tight fitting the componets into the boxes.  I'm sure that a slighly larger 3d printed box would be a better solution.
+#3  I used plastic surface mount device boxes to mount the electronics in.  It was tight fitting the componets into the boxes.  I'm sure that a slightly larger 3d printed box would be a better solution.
 
 #4 Don't try to power the ESP32 with 5VDC.  I did this and it worked for about 5 minutes before the magic smoke came out.  I used a 3.3V regulator to interface the 5V to power the ESP32.  You could also try to power the entire system from a 3.3V wall wart, which will probably work
 
