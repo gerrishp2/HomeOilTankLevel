@@ -16,6 +16,10 @@ Things to watch out for or I would have done differently:
 
 #3  I used plastic surface mount device boxes to mount the electronics in.  It was tight fitting the componets into the boxes.  I'm sure that a slighly larger 3d printed box would be a better solution.
 
+#4 Don't try to power the ESP32 with 5VDC.  I did this and it worked for about 5 minutes before the magic smoke came out.  I used a 3.3V regulator to interface the 5V to power the ESP32.  You could also try to power the entire system from a 3.3V wall wart, which will probably work
+
+#5 I used a transistor to interface the Hall effect sensor into the ESP32 as an input.  I don't know why but I couldn't get the Hall effect sensor to work as a direct input into the ESP32
+
 Sequence of Operation:
 
 1.) On Power up the Motor strokes the actuator in the up position until the upper limit switch is detected.  Encoder Counts are set to Zero.
