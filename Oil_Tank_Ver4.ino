@@ -185,7 +185,7 @@ int SwLevel_state = digitalRead(SwLevel);
     previousMillis = currentMillis;
 
     
-    // Publish an MQTT message on topic esp32/BME2800/temperature
+    // Publish an MQTT message
     uint16_t packetIdPub1 = mqttClient.publish(MQTT_PUB_OIL, 1, true, String(countLevel).c_str());   
     Serial.println(countLevel);                        
   }
