@@ -1,0 +1,59 @@
+Amazon URLs
+
+ESP32 
+https://www.amazon.com/gp/product/B08246MCL5/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
+
+5V Power Supply Jacks
+https://www.amazon.com/gp/product/B091PS6XQ4/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1
+
+Motor flexible Coupling
+https://www.amazon.com/gp/product/B07YFD9X7R/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
+
+Hall Effect Sensor
+https://www.amazon.com/gp/product/B01NBE2XIR/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
+
+DC Motor With Encoder
+https://www.amazon.com/gp/product/B07J516Z1L/ref=ppx_yo_dt_b_asin_title_o03_s01?ie=UTF8&psc=1
+
+8/32 X 12" Threaded Rod
+https://www.amazon.com/gp/product/B002CTCBFO/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1
+
+Motor Driver Board
+https://www.amazon.com/gp/product/B014KMHSW6/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1
+
+5V DC Power Supply
+https://www.amazon.com/gp/product/B08Z7GNDKT/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1
+
+10" Drawer Slides
+https://www.amazon.com/gp/product/B07C7X7V97/ref=ox_sc_act_title_1?smid=AUVZIAG1CCP0U&th=1
+
+Surface Mount Box - I used 2 - one to house ESP32 and the other one to house the motor drive board
+https://www.amazon.com/gp/product/B0028CIC8U/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1
+
+Keystone Ethernet Jack
+https://www.amazon.com/gp/product/B07JRD69V6/ref=ox_sc_act_title_1?smid=AV8UO5R17KQ5N&psc=1
+
+Ethernet Jack Wall Plate
+https://www.amazon.com/gp/product/B095JGDSTQ/ref=ox_sc_act_title_1?smid=AQ68F2KCJYZ0E&th=1
+
+1-3/4" U-bolt
+https://www.amazon.com/gp/product/B000BQP52Q/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1
+
+Aluminum SHeet metal .060" thick For leadscrew nut capture and limit switch dog
+https://www.amazon.com/gp/product/B09HWRB6L1/ref=ox_sc_act_title_1?smid=A3HDY9C2ND66SN&psc=1
+
+Not included in this 
+1/2" Plywood approximatly 8" X 12"
+
+6/32 X 2" flat head screws and nuts for motor mount
+
+Misc M1 and M2 screws and nuts (I had an assortment kit)
+
+Small 1/2" round piece of Brass to tap as a lead screw nut
+
+
+
+
+
+
+
