@@ -4,7 +4,7 @@ I proto typed this a couple of months ago so this is rough around the edges.
 
 If you are interested in using or doing a project such as this you need to check if your oil tank float is magnetic.  The concept for this occured to me, because the Yellow float indicator, inside the sight glass had some metal filings stuck to it.
 
-I used ethernet jacks and Ethernet cable as my 5VDC wall wart and ESP32 is located near a 120V AC outlet and 20' away is my oil tank where I located the motor driver board.  See the "Wiring Cartoon" I uploaded as reference.
+I used ethernet jacks and Ethernet cable to interface the wiring between the ESP32 board and the actuator.
 
 The ESP32 code reports up to mqtt and I use Home assitant to visualize the tank level.
 
