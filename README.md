@@ -1,6 +1,6 @@
 # HomeOilTankLevel
 
-I protyped this a couple of months ago so this is rough around the edges.
+I proto typed this a couple of months ago so this is rough around the edges.
 
 If you are interested in using or doing a project such as this you need to check if your oil tank float is magnetic.  The concept for this occured to me, because the Yellow float indicator, inside the sight glass had some metal filings stuck to it.
 
